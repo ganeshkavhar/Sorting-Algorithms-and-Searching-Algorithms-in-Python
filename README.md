@@ -1,0 +1,2 @@
+# Sorting-Algorithms-and-Searching-Algorithms-in-Python
+Sorting Algorithms and Searching algorithms like insertion sort, selection sort are essential to learning as a programmer because these form the base of any programmer. As a programmer, you have to deal with large amounts of data from time to time. This data needs to be sorted in a logical manner. You will also have to search through the data-set to find a unique item in the list.
